@@ -1,0 +1,30 @@
+2020-09-09T03:13:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2020-09-09T03:16:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+
+2020-09-09T03:17:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+
+2020-09-09T03:18:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2020-09-09T03:28:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T03:31:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T03:39:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T03:53:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T03:54:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T04:08:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T04:09:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T04:27:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T04:37:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T05:17:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
+2020-09-09T06:42:14+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\sinfull_temptations\wp-includes\wp-db.php on line 2033
+
